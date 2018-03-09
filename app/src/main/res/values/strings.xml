@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Weather</string>
+    <string name="tv_latitud">Latitud</string>
+    <string name="tv_longitud">Longitud</string>
+    <string name="btn_consultar">Consultar Tiempo</string>
+    <string name="clave_latitud">LATITUD</string>
+    <string name="clave_longitud">LONGITUD</string>
+    <string name="humidityLabel">HUMEDAD</string>
+    <string name="precipLabel">LLUVIA</string>
+</resources>
